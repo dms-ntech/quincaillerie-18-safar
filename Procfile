@@ -1,0 +1,1 @@
+web: gunicorn quincaillerie.wsgi --log-file -
